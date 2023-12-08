@@ -1,0 +1,6 @@
+{
+    "moonsecv3.!ApiKey": "https://api.f3d.at/v1/obfuscate.php?key={api_key}&options={parameters}&bytecode={number}&platform={parameter}",
+    "moonsecv3.antitamper": true,
+    "moonsecv3.constantprotection": true,
+    "moonsecv3.maxsecurity": true
+}
